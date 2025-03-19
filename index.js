@@ -1,4 +1,4 @@
-const x = 2
-console.log(x)
+const lul = 2
+console.log(lul)
 
 // more changes
