@@ -1,4 +1,4 @@
-const lul = 1
+const lul = 2
 console.log(lul)
 
 // more changes
